@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-violet.svg)](https://opensource.org/licenses/MIT)
+
 Лабораторная работа по дисциплине «Компьютерная графика» №1
 
 
